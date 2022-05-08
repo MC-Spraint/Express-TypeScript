@@ -1,3 +1,5 @@
+First setup your own .env file 
+
 To start the development server
 # npm run dev
 
