@@ -1,5 +1,5 @@
 {
-  "name": "Snahashis Das",
+  "name": "Mc Spraint",
   "version": "2.0.0",
   "description": "This is a typescript based backend express application for a given task on an interview",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "addUsersTs": "ts-node-dev --respawn --transpile-only src/seed.ts",
     "build": "tsc -p ."
   },
-  "author": "Snahashis Das",
+  "author": "Mc Spraint",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
