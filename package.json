@@ -1,7 +1,7 @@
 {
   "name": "DSA",
   "version": "2.0.0",
-  "description": "This is a typescript based backend express application for my portfolio",
+  "description": "This is a typescript based backend express application for a given task on an interview",
   "main": "index.js",
   "scripts": {
     "start": "node www/server.js",
